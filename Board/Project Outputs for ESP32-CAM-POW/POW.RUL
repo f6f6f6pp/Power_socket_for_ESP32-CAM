@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: G:\¤å¥ó\ESP32-CAM ¹q·½ªO\Gen.2\Board\POW.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_2|Scope=Board|Minimum=3.94
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=0.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.94
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=3.94

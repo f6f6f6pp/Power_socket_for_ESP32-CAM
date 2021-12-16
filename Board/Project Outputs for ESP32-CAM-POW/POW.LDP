@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: G:\¤å¥ó\ESP32-CAM ¹q·½ªO\Gen.2\Board\POW.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pow.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=pow-rectholes.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [ESP32-CAM-POW.PrjPCB]
+   Generated File[POW.TXT]
+   Generated File[POW-RectHoles.TXT]
+   Generated File[POW.LDP]
+   Generated File[POW.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At ¤W¤È 03:42:36 On 2021/11/2

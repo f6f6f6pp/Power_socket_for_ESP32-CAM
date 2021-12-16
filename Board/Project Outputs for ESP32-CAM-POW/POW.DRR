@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: POW.PcbDoc   2021/11/2  ¤W¤È 03:42:36
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : POW.TXT
+ASCII RectHoles File : POW-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      16mil (0.4mm)                                             Round             116       PTH        7.65inch (194.35mm)
+T3      22mil (0.56mm)                                            Round             2         PTH        0.16inch (4.00mm)
+T4      39mil (1mm)                                               Round             16        PTH        2.30inch (58.42mm)
+T5      47mil (1.2mm)                                             Round             4         PTH        0.91inch (23.01mm)
+T6      54mil (1.38mm)                                            Rectangle         2         PTH        5.82inch (147.85mm)
+T1      35mil (0.9mm)                                             Round             2         NPTH       0.12inch (3.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              142
+
+Total Processing Time (hh:mm:ss) : 00:00:00
